@@ -58,7 +58,7 @@ Variables principales :
 
 ---
 
-## ⚙️ Feature Engineering
+## Feature Engineering
 
 ### Variables temporelles
 - annee
